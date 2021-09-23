@@ -1,1 +1,1 @@
-![Metrics](https://metrics.lecoq.io/brutualize)
+![Metrics](https://metrics.lecoq.io/unvicious)
